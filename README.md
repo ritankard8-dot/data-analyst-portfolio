@@ -21,6 +21,7 @@
 - Power BI (Basics)
 
 ## 📄 Resume
-📎 [View Resume](resume.pdf)
+📎 [View Resume](<img width="640" height="540" alt="image" src="https://github.com/user-attachments/assets/c28c786e-0886-456a-828a-019bbc51bdf3" />
+)
 # data-analyst-portfolio
 My Data Analyst portfolio (Excel, SQL, Power BI)

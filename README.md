@@ -21,7 +21,7 @@
 - Power BI (Basics)
 
 ## 📄 Resume
-📎 [View Resume](Ritankar_Das_Data_Analyst_Resume.pdf.pdf)
+📎 [View Resume](Ritankar_Das_Data_Analyst_Resume.pdf)
 
 # data-analyst-portfolio
 My Data Analyst portfolio (Excel, SQL, Power BI)

@@ -13,7 +13,7 @@ I am a Final-year Computer Science student specializing in Data Analytics. I foc
 * **Key Skills:** Wrote complex queries using **Multi-table Joins (5+ tables)**, **CTEs**, and **Window Functions**.
 * **Insights:** Identified best-selling artists and top revenue-generating countries (USA, Canada) to guide marketing strategies.
 * **Tools:** PostgreSQL, pgAdmin 4
-* [📂 **View Project Files**](./) 
+* [📂 Music_Store_Analysis.sql](./) 
 
 ### 🛍️ 2. Vrinda Store Sales Analysis (Excel)
 * **Objective:** Performed annual sales analysis for a retail store to track performance and customer purchasing patterns.
@@ -41,9 +41,6 @@ I am a Final-year Computer Science student specializing in Data Analytics. I foc
 * **Currently Learning:** Power BI (DAX, Modeling)
 
 ---
-
-## 📄 Resume
-[📎 **View My Resume**](Ritankar_Das_Data_Analyst_Resume.pdf)
 
 ## 📄 Resume
 📎 [View Resume](Ritankar_Das_Data_Analyst_Resume.pdf)

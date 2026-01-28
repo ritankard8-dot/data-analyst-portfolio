@@ -20,7 +20,7 @@ I am a Final-year Computer Science student specializing in Data Analytics. I foc
 * **Key Skills:** **Data Cleaning**, **Pivot Tables**, and created an interactive Dashboard with **Slicers**.
 * **Insights:** Identified peak sales months and top-performing regions to visualize business growth.
 * **Tools:** Microsoft Excel (Advanced)
-* * [📂 View Excel Project Files](https://github.com/ritankard8-dot/Vrinda-Store-Data-Analysis/blob/main/Vrinda_Store_Data_Analysis.xlsx) 
+** [📂 View Excel Project Files](https://github.com/ritankard8-dot/Vrinda-Store-Data-Analysis/blob/main/Vrinda_Store_Analysis.xlsx)
 
 ---
 
